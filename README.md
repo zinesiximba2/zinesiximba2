@@ -1,16 +1,15 @@
-## Hi there 👋
+Hey there 👋 I’m Zine Siximba
 
-<!--
-**zinesiximba2/zinesiximba2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCom Information Systems Graduate
+💡 Interested in AI, Data Analytics, Emerging Technologies & Digital Innovation
+🌍 Passionate about using technology to solve real-world problems, especially in developing and resource-constrained contexts
 
-Here are some ideas to get you started:
+🔭 I’m currently working on building a recruiter-ready portfolio website and showcasing my data analytics projects.  
+🌱 I’m currently learning advanced Power BI, Python for data analysis, and exploring FinTech innovations through Summer School.  
+👯 I’m looking to collaborate on fintech case studies, business intelligence dashboards, and web development projects.  
+🤔 I’m looking for help on securing graduate opportunities in ICT, finance, and public service.  
+💬 Ask me about Excel dashboards, Power BI, Python troubleshooting, and academic referencing (APA style).  
+📫 How to reach me: LinkedIn:https://www.linkedin.com/in/zine-siximba-65462228b | WhatsApp:0633067176 | Email:zinesiximba2@gmail.com  
+😄 Pronouns: She/Her  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
